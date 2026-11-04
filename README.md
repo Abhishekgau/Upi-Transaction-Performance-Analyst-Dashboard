@@ -5,8 +5,8 @@ An interactive **Excel Pivot Dashboard** built to analyze, monitor, and visualiz
 ---
 
 ## 📊 Dashboard Preview
+<img width="1748" height="682" alt="Screenshot 2026-11-04 235234" src="https://github.com/user-attachments/assets/d06ee2a3-0aff-4546-beaf-ea767720223b" />
 
-<img width="1748" height="682" alt="Screenshot 2026-11-04 235234" src="[https://github.com/user-attachments/assets/ae8183af-349c-483f-8ae5-730a96287cc6](https://github.com/user-attachments/assets/ae8183af-349c-483f-8ae5-730a96287cc6)" />
 
 ---
 

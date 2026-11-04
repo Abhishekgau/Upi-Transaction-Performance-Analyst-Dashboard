@@ -1,4 +1,3 @@
-
 # 🚀 UPI Transactions Performance & Analytics Dashboard
 
 An interactive **Excel Pivot Dashboard** built to analyze, monitor, and visualize UPI transaction performance, user demographics, application usage, and fraud patterns across major digital payment platforms.
@@ -6,6 +5,8 @@ An interactive **Excel Pivot Dashboard** built to analyze, monitor, and visualiz
 ---
 
 ## 📊 Dashboard Preview
+
+<img width="1748" height="682" alt="Screenshot 2026-11-04 235234" src="[https://github.com/user-attachments/assets/ae8183af-349c-483f-8ae5-730a96287cc6](https://github.com/user-attachments/assets/ae8183af-349c-483f-8ae5-730a96287cc6)" />
 
 ---
 
@@ -23,33 +24,25 @@ An interactive **Excel Pivot Dashboard** built to analyze, monitor, and visualiz
 ## 📈 Key Insights & Visualizations
 
 1. **Interactive Filter Panel:**
-* Filter metrics dynamically by **Gender** (Female, Male, Other), **UPI App** (Amazon Pay, BHIM, Cred Pay, Google Pay, Paytm, PhonePe, WhatsApp), and **Transaction Type** (Bill Pay, Online, P2M, P2P).
-
+   * Filter metrics dynamically by **Gender** (Female, Male, Other), **UPI App** (Amazon Pay, BHIM, Cred Pay, Google Pay, Paytm, PhonePe, WhatsApp), and **Transaction Type** (Bill Pay, Online, P2M, P2P).
 
 2. **Daily Transaction Trend:**
-* Tracks daily transaction volume fluctuations across the 30-day billing/operational cycle.
-
+   * Tracks daily transaction volume fluctuations across the 30-day billing/operational cycle.
 
 3. **UPI App-wise Performance:**
-* Compares total transaction amounts processed across different apps (e.g., PhonePe leading at ₹220.14 Cr, Paytm at ₹94.28 Cr, Google Pay at ₹63.44 Cr, etc.).
-
+   * Compares total transaction amounts processed across different apps (e.g., PhonePe leading at ₹220.14 Cr, Paytm at ₹94.28 Cr, Google Pay at ₹63.44 Cr, etc.).
 
 4. **State-wise Transaction Analysis:**
-* Geographic heatmap visualization mapping total transaction values across states (ranging from ₹1.39 Cr to ₹45.41 Cr).
-
+   * Geographic heatmap visualization mapping total transaction values across states (ranging from ₹1.39 Cr to ₹45.41 Cr).
 
 5. **Payment Mode Breakdown:**
-* Evaluates volume distribution across payment modes, highlighting **UPI ID** and **QR Scan** as primary drivers of transaction value (₹164.37 Cr and ₹144.84 Cr respectively).
-
+   * Evaluates volume distribution across payment modes, highlighting **UPI ID** and **QR Scan** as primary drivers of transaction value (₹164.37 Cr and ₹144.84 Cr respectively).
 
 6. **Age Group-wise Distribution:**
-* Highlights core consumer demographics, showing peak transaction activity within the **25–34** (₹168.54 Cr) and **35–44** (₹111.28 Cr) age brackets.
-
+   * Highlights core consumer demographics, showing peak transaction activity within the **25–34** (₹168.54 Cr) and **35–44** (₹111.28 Cr) age brackets.
 
 7. **Transaction Status Distribution:**
-* A clean status breakdown visual representing **Success (91.05%)**, **Failed**, **Pending**, and **Refunded** states.
-
-
+   * A clean status breakdown visual representing **Success (91.05%)**, **Failed**, **Pending**, and **Refunded** states.
 
 ---
 
@@ -64,16 +57,4 @@ An interactive **Excel Pivot Dashboard** built to analyze, monitor, and visualiz
 
 ```text
 ├── phonepay_raw_data.xlsx    # Raw dataset managed via Git LFS
-├── dashboard_preview.png
-![UPI Dashboard Preview]<img width="1748" height="682" alt="Screenshot 2026-11-04 235234" src="https://github.com/user-attachments/assets/ae8183af-349c-483f-8ae5-730a96287cc6" />  # Visual screenshot of the Excel dashboard
 └── README.md                 # Project documentation
-
-```
-
----
-
-## 👤 Author
-
-**Abhishek Kumar Gautam**
-
-* [GitHub Profile](https://github.com/Abhishekgau)

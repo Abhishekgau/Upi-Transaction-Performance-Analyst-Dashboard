@@ -1,8 +1,3 @@
-Here is a professional and comprehensive `README.md` template tailored for your **UPI Transactions Performance & Analytics Dashboard**.
-
-To include the dashboard screenshot inside your GitHub repository, you can first save this image as `dashboard_preview.png` and push it to your repository along with the README code below.
-
----
 
 # 🚀 UPI Transactions Performance & Analytics Dashboard
 
@@ -69,7 +64,8 @@ An interactive **Excel Pivot Dashboard** built to analyze, monitor, and visualiz
 
 ```text
 ├── phonepay_raw_data.xlsx    # Raw dataset managed via Git LFS
-├── dashboard_preview.png     # Visual screenshot of the Excel dashboard
+├── dashboard_preview.png
+![UPI Dashboard Preview]<img width="1748" height="682" alt="Screenshot 2026-11-04 235234" src="https://github.com/user-attachments/assets/ae8183af-349c-483f-8ae5-730a96287cc6" />  # Visual screenshot of the Excel dashboard
 └── README.md                 # Project documentation
 
 ```
